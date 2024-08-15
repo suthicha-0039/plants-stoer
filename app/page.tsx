@@ -69,7 +69,7 @@ export default function Home() {
   return (
     <>
       <div className="flex min-h-screen flex-col items-center justify-between p-4">
-        <h1 className="text-4xl font-bold">Plans Store</h1>
+        <h1 className="text-4xl font-bold">Plants Store</h1>
         <div className="flex gap-2">
           {/* -------------------ตะกร้าสินค้า-----------------------------------  */}
           <div className="sticky top-20 z-10 mt-4 w-[35%] h-full bg-zinc-300 p-2 rounded-lg border-2 border-cyan-500">
